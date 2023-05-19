@@ -1,0 +1,16 @@
+{
+    "en":{
+        "HomeStrings": null,
+        "search": "Search",
+        "ConfigStrings": null,
+        "titleConfig":"settings",
+        "language":"language"
+    },
+    "es":{
+        "HomeString": null,
+        "search": "Buscar",
+        "ConfigStrings": null,
+        "titleConfig":"configuración",
+        "language":"idioma"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "short_name": "Markers",
+  "name": "GMarkers",
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+   "128": "logo512.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Your Extension Name"
+  },
+  "content_security_policy": "script-src 'self' 'sha256-CMyYic0d7L0Q9AwjGU0n6buHFRR6bU3TOAe0P7DEJrk='; object-src 'self'"
+}

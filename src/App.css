@@ -1,0 +1,17 @@
+ .App {
+  padding: 0;
+  margin: 0;
+  height: 500px;
+  width: 300px;
+  background-color: rgb(56, 56, 56);
+  position: absolute;
+}
+.hover-light:hover{
+  background-color: rgb(82, 82, 82);
+}
+.hover-light2:hover{
+  background-color: rgb(55, 56, 56);
+}
+.modal-content{
+  background-color:rgb(82, 82, 82) !important;
+}
